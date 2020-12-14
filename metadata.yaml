@@ -1,0 +1,36 @@
+_repo: Captain-Chaos_63919
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pike, Jay Scott
+    alias: Pike, J. S.
+    birthdate: 1924
+    deathdate: 2015
+    gutenberg_agent_id: '52661'
+    url: http://www.gutenberg.org/2009/agents/52661
+    wikipedia: https://en.wikipedia.org/wiki/Jay_Scott_Pike
+creator:
+  author:
+    agent_name: Morrissey, D. Allen
+    gutenberg_agent_id: '52664'
+    url: http://www.gutenberg.org/2009/agents/52664
+description: ''
+gutenberg_issued: '2020-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Amnesia -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Captain Chaos
+url: http://www.gutenberg.org/ebooks/63919
