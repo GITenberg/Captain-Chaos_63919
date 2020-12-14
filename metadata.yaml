@@ -1,5 +1,5 @@
 _repo: Captain-Chaos_63919
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pike, Jay Scott
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '52661'
     url: http://www.gutenberg.org/2009/agents/52661
     wikipedia: https://en.wikipedia.org/wiki/Jay_Scott_Pike
+covers:
+- cover_type: archival
+  image_path: 63919-h/images/cover.jpg
 creator:
   author:
     agent_name: Morrissey, D. Allen
     gutenberg_agent_id: '52664'
     url: http://www.gutenberg.org/2009/agents/52664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63919#Captain-Chaos
 gutenberg_issued: '2020-11-29'
 gutenberg_type: Text
 identifiers:
